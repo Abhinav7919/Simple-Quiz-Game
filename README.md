@@ -11,4 +11,4 @@ A simple console-based quiz game built in Python using loops, if-else statements
 - `for` loops
 - `if-else` conditional statements
 - String methods (`.lower()`, `.strip()`)
-- User input handling
+- User input handling.
